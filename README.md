@@ -10,4 +10,4 @@
 - [x] 1986, David E. Rumelhart et al. - [Learning representations by back-propagating errors](./nature/1986/learning-representations-by-back-propagating-errors.md) [[paper](https://doi.org/10.1038/323533a0)]
 
 ## Neural Computation
-- [ ] 1997, Sepp Hochreiter et al. - [Long Short-Term Memory]() [[paper](https://doi.org/10.1162/neco.1997.9.8.1735)]
+- [x] 1997, Sepp Hochreiter et al. - [Long Short-Term Memory]() [[paper](https://doi.org/10.1162/neco.1997.9.8.1735)]
