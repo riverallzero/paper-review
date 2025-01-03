@@ -2,6 +2,7 @@
 
 ## arXiv
 - [ ] 2014, Chung, J. et al. - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling]() [[paper](https://doi.org/10.48550/arXiv.1412.3555)]
+- [ ] 2015, Geoffrey Hinton et al. - [Distilling the Knowledge in a Neural Network]() [[paper](https://doi.org/10.48550/arXiv.1503.02531)]
 
 ## IEEE
 - [ ] 2009, F. Scarselli et al. - [The Graph Neural Network Model]() [[paper](https://doi.org/10.1109/TNN.2008.2005605)]
